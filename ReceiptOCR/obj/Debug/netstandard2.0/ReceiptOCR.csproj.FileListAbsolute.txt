@@ -1,0 +1,12 @@
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/bin/Debug/netstandard2.0/ReceiptOCR.deps.json
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/bin/Debug/netstandard2.0/ReceiptOCR.dll
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/bin/Debug/netstandard2.0/ReceiptOCR.pdb
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.csprojAssemblyReference.cache
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.csproj.CoreCompileInputs.cache
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.AssemblyInfoInputs.cache
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.AssemblyInfo.cs
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.dll
+/Users/sinjincooper/projects/ReceiptOCR/ReceiptOCR/obj/Debug/netstandard2.0/ReceiptOCR.pdb
