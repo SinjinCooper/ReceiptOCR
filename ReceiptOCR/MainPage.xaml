@@ -6,12 +6,12 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
+            <Image
+                x:Name="imgPhoto"/>
             <Button
                 x:Name="btnStartCamera"
                 Text="Start Camera"
                 Clicked="BtnStartCamera_Clicked"/>
-            <Image
-                x:Name="imgPhoto"/>
         </Grid>
         
     </StackLayout>

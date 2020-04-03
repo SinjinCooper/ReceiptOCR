@@ -20,7 +20,7 @@ namespace ReceiptOCR
             var photo = await CrossMedia.Current.TakePhotoAsync(new Plugin.Media.Abstractions.StoreCameraMediaOptions());
 
             if (photo != null)
-                imgPhoto.Source = ImageSource.FromStream(() => { return photo.GetStream(); });
+                imgPhoto.Source = ImageSource.FromStream(photo.GetStream);
         }
     }
 }
